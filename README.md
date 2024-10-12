@@ -21,6 +21,8 @@ The primary focus is on:
 - Model evaluation and optimization
 - Implementing deep learning using PyTorch
 
+**Instructor**: Dr. Seyed Mojtaba Sabbagh-Jafari
+
 ## Technologies
 - **Python 3.x**
 - **Jupyter Notebook**
