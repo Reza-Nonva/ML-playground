@@ -68,7 +68,7 @@ You are now ready to run the Jupyter Notebooks!
 ## Projects
 
 1. **Breast Cancer Classification**
-   - **Description**: In this notebook, I experimented with three popular models—Perceptron, AdalineGD, and Logistic Regression—to classify breast cancer data. I walked through each step carefully, testing and comparing the performance of the models.
+   - **Description**: In this notebook, I experimented with four popular models—Perceptron, AdalineGD, Logistic Regression, and SVM(using linear and RBF kernels)—to classify breast cancer data. I walked through each step carefully, testing and comparing the performance of the models.
    - **Notebook**: [Breast_Cancer_Classification.ipynb](notebooks/Breast_Cancer_Classification.ipynb)
 
 This list will grow as I progress through the book.
