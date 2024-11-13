@@ -68,8 +68,21 @@ You are now ready to run the Jupyter Notebooks!
 ## Projects
 
 1. **Breast Cancer Classification**
-   - **Description**: In this notebook, I experimented with four popular models—Perceptron, AdalineGD, Logistic Regression, and SVM(using linear and RBF kernels)—to classify breast cancer data. I walked through each step carefully, testing and comparing the performance of the models.
+   - **Description**: In this notebook, I experimented with four popular models—Perceptron, AdalineGD, Logistic Regression,
+   and SVM(using linear and RBF kernels)—to classify breast cancer data. I walked through each step carefully,
+   testing and comparing the performance of the models.
    - **Notebook**: [Breast_Cancer_Classification.ipynb](notebooks/Breast_Cancer_Classification.ipynb)
+
+
+
+2. **Dimensionality Reduction Techniques**
+   - **Description**: In this notebook, I explored three widely-used dimensionality reduction techniques:
+   Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), and 
+   t-Distributed Stochastic Neighbor Embedding (t-SNE). I implemented each method step-by-step, comparing how they
+   transform the dataset to lower dimensions and discussing their applications. 
+   The goal was to observe how each technique preserves data structure and improves data visualization,
+   particularly when working with high-dimensional data.
+   - **Notebook**: [Dimensionality_Reduction.ipynb](notebooks/Dimensionality_Reduction.ipynb)
 
 This list will grow as I progress through the book.
 
